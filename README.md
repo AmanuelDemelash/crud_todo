@@ -38,3 +38,4 @@ A simple and clean Todo application built using **Flutter**, **Supabase** as the
 ```bash
 git clone https://github.com/your-username/flutter_todo_app.git
 cd flutter_todo_app
+flutter run
