@@ -34,6 +34,6 @@ A simple and clean Todo application built using **Flutter**, **Supabase** as the
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/flutter_todo_app.git
+git clone https://github.com/AmanuelDemelash/crud_todo
 cd flutter_todo_app
 flutter run
